@@ -2,7 +2,7 @@
 
 🧠 Software Code Bio: Tax Withholding + Filing API System
 
-📌 Project Name: tax-withholding-api
+📌 Project Name: autotax-api
 
 📋 Purpose
 
